@@ -1,2 +1,5 @@
 # didactic-octo-succotash-dummy-profile-
 Barry's CIS 376 Fall 2025 alt profile repo. 
+
+
+![image](https://github.com/user-attachments/assets/fab56723-f67c-4e93-b76b-2746f5f1a1e7)
